@@ -2,7 +2,7 @@
 
 <p>Hello ❤️, my name is Angel, I am an Information Technology Engineer,👨💻 I have a specialty in Networks and Telecommunications 🖧, my focus currently is software development 🌐, I love helping people and I am passionate about developing solutions to optimize processes 🔥. I like to learn 📘 constantly and be self-taught.</p>
 
-[![Spotify Badge](https://img.shields.io/badge/-@Angel%20Lopez-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/holacome2?si=7b9c6e1af6a24e14)](https://open.spotify.com/user/holacome2?si=498c7f714f9c46ed) [![Gmail Badge](https://img.shields.io/badge/-info@tecsolt.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josez3217@gmail.com)](mailto:josez3217@gmail.com)
+[![Spotify Badge](https://img.shields.io/badge/-@Angel%20Lopez-1ED760?style=flat-square&amp;labelColor=fff&amp;logo=Spotify&amp;link=https://open.spotify.com/user/holacome2?si=7b9c6e1af6a24e14)](https://open.spotify.com/user/holacome2?si=498c7f714f9c46ed) [![Gmail Badge](https://img.shields.io/badge/-josez3217@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:josez3217@gmail.com)](mailto:josez3217@gmail.com)
 
 <img align="right" src="https://media.giphy.com/media/Mb9dQnfZXSBYMhU2Nv/giphy.gif?cid=ecf05e47oifwkwx0idmhqmc9rlend6wgigy7fbld166fo2o6&rid=giphy.gif&ct=g" width="350">
 <h2>⚡️ A Few Quick Facts</h2>
